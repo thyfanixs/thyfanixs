@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Thyfani Xavier 👋</h1>
 
 <p align="center">
-  <strong>Analista de Dados | Business Intelligence | IA aplicada</strong>
+  <strong>Analista de Dados &amp; IA | RAG · Text-to-SQL · MCP | SQL Server · TOTVS · Power BI</strong>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## Sobre mim
 
-Sou Analista de Dados com mais de 3 anos de experiência na construção de soluções de BI, cobrindo o ciclo completo: entendimento da demanda, extração, transformação, modelagem, visualização, documentação e apoio à decisão.
+Sou Analista de Dados & IA, com 2 anos em BI e 8 anos com dados corporativos e ERP. Construo soluções que cobrem o ciclo completo: entendimento da demanda, extração, transformação, modelagem, visualização, documentação e apoio à decisão.
 
 Minha trajetória combina Administração, dados corporativos e tecnologia. Trabalho principalmente com **SQL Server, SSIS, Power BI, Power Query, DAX e ERP TOTVS**, além de desenvolver projetos com **Python, automação e inteligência artificial aplicada**.
 
@@ -26,7 +26,7 @@ Também compartilho conhecimento por meio de workshops internos e artigos sobre 
 
 ## Formação
 
-- **Pós-graduação em Inteligência Artificial** — Faculdade FEEL Goiás · jul–dez/2026
+- **Pós-graduação em Inteligência Artificial** — FAAL - Faculdade Alcance · jun–dez/2026
 - **Pós-graduação em Análise de Dados**
 - **Graduação em Administração**
 
@@ -48,14 +48,13 @@ Também compartilho conhecimento por meio de workshops internos e artigos sobre 
 
 | Projeto | O que foi desenvolvido | Tecnologias |
 | --- | --- | --- |
-| [Power BI DAX Agent](https://github.com/thyfanixs/powerbi-dax-agent) | Agente especializado em DAX e modelagem semântica, integrado ao Power BI Modeling MCP. | Power BI, DAX, MCP, IA |
 | [Finly](https://github.com/thyfanixs/finly) | Analista financeiro pessoal com LLM local para categorizar extratos e identificar padrões sem enviar dados para a nuvem. | Python, Ollama, Streamlit, Pandas |
 | [IA-SQL](https://github.com/thyfanixs/IA-SQL) | Integração de IA com SQL para gerar, revisar e interpretar consultas em linguagem natural. | Python, SQL, IA |
 | [Obsidian Project OS](https://github.com/thyfanixs/obsidian-project-os) | Método baseado em PARA, MOCs e metadados para organizar projetos e fornecer contexto confiável a agentes de IA. | Obsidian, PKM, IA |
 | [Matriz RFM](https://github.com/thyfanixs/Matriz_RFM) | Segmentação de clientes por recência, frequência e valor monetário. | Power BI, RFM, Marketing Analytics |
-| [Pipeline de Prospecção](https://github.com/thyfanixs/Pipeline-de-Prospec-o) | Automação da organização, priorização e análise de leads comerciais. | Python, CRM, Analytics |
+| [Pipeline de Prospecção](https://github.com/thyfanixs/pipeline-de-prospeccao) | Automação da organização, priorização e análise de leads comerciais. | Python, CRM, Analytics |
 | [Performance Ranking](https://github.com/thyfanixs/Performance-Ranking) | Ranking visual para comparação de métricas de performance. | Power BI, KPIs, Analytics |
-| [Fluxo de Aprovação de Investimento](https://github.com/thyfanixs/fluxo-aprova-o-investimento) | Sistema automatizado de análise e aprovação com regras de negócio estruturadas. | JavaScript, Finanças, Automação |
+| [Fluxo de Aprovação de Investimento](https://github.com/thyfanixs/fluxo-aprovacao-investimento) | Sistema automatizado de análise e aprovação com regras de negócio estruturadas. | JavaScript, Finanças, Automação |
 | [Quintal das Pretas](https://github.com/thyfanixs/quintal-das-pretas) | Site para um espaço de cultura, ancestralidade e arte em Minas Gerais. | HTML, CSS, JavaScript |
 | [Meu Portfólio](https://github.com/thyfanixs/meu-portfolio) | Portfólio profissional com projetos, trajetória, artigos e laboratório de dados e IA. | HTML, CSS, JavaScript |
 
